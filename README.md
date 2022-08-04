@@ -3,28 +3,22 @@
 </p>
 
 # 🎶 Hirata
-
 > Hirata is a discord music bot
 
-## Requirements
-
+## 📜 Requiremednts
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js 16.11.0 or newer
 
-## 🚀 Getting Started
-
+## ⚙️ Installation
 ```sh
 git clone https://github.com/eritislami/evobot.git
 cd evobot
 npm install
 ```
-
 After installation finishes follow configuration instructions then run `npm run start` to start the bot.
 
 ## ⚙️ Configuration
-
 Copy or Rename `config.json.example` to `config.json` and fill out the values:
-
 ⚠️ **Note: Never commit or share your token or api keys publicly** ⚠️
 
 ```json
@@ -38,17 +32,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
   "STAY_TIME": 30
 }
 ```
-
-## 🐬 Docker Configuration
-
-For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/eritislami/evobot), you may provide values from `config.json` as environment variables.
-
-```shell
-docker run -e "TOKEN=<discord-token>" eritislami/evobot
-```
-
 ## 📝 Features & Commands
-
 > Note: The default prefix is '!'
 
 - 🎶 Play music from YouTube via url
@@ -99,13 +83,9 @@ Examples: `1` or `1,2,3`
 - Help (!help, !h)
 - Command Handler from [discordjs.guide](https://discordjs.guide/)
 - Media Controls via Reactions
-
-![reactions](https://i.imgur.com/9S7Omf9.png)
-
+  
 ## 🌎 Locales
-
 Currently available locales are:
-
 - English (en)
 - Arabic (ar)
 - Brazilian Portuguese (pt_br)
@@ -131,15 +111,20 @@ Currently available locales are:
 - Turkish (tr)
 - Ukrainian (uk)
 - Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
-- For languages please use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter format
 
 ## 🤝 Contributing
+1. [Fork the repository](https://github.com/JohnnyHall/readme-markdown-template/fork)
+2. Clone your fork: `git clone https://github.com/JohnnyHall/readme-markdown-template.git`
+3. Stage changes `git add .`
+4. Commit your changes: `cz` OR use `git commit`
+5. Submit a pull request
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Stage changes `git add .`
-5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
-6. Push to the branch: `git push origin my-new-feature`
-7. Submit a pull request
+## 🤝 Related Projects
+
+## 👤 Developers
+ - João Victor Rokemback Tápparo
+
+<p align="center">
+  Created on <br>
+  04/08/2022
+</p>
