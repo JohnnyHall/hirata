@@ -113,13 +113,14 @@ Currently available locales are:
 - Vietnamese (vi)
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/JohnnyHall/readme-markdown-template/fork)
-2. Clone your fork: `git clone https://github.com/JohnnyHall/readme-markdown-template.git`
+1. [Fork the repository](https://github.com/JohnnyHall/hirata/fork)
+2. Clone your fork: `git clone https://github.com/JohnnyHall/hirata.git`
 3. Stage changes `git add .`
 4. Commit your changes: `cz` OR use `git commit`
 5. Submit a pull request
 
-## 🤝 Related Projects
+## 🤝 Original
+[Original](https://github.com/eritislami/evobot)
 
 ## 👤 Developers
  - João Victor Rokemback Tápparo
