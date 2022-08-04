@@ -119,8 +119,8 @@ Currently available locales are:
 4. Commit your changes: `cz` OR use `git commit`
 5. Submit a pull request
 
-## 🤝 Original
-[Original](https://github.com/eritislami/evobot)
+## 🤝 Related Projects
+[Base Repository](https://github.com/eritislami/evobot)
 
 ## 👤 Developers
  - João Victor Rokemback Tápparo
