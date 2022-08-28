@@ -5,7 +5,7 @@
 # 🎶 Hirata
 > Hirata is a discord music bot
 
-## 📜 Requiremednts
+## 📜 Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js 16.11.0 or newer
 
