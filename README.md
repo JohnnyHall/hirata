@@ -12,7 +12,7 @@
 ## ⚙️ Installation
 ```sh
 git clone https://github.com/eritislami/evobot.git
-cd evobot
+cd hirata
 npm install
 ```
 After installation finishes follow configuration instructions then run `npm run start` to start the bot.
